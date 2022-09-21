@@ -1,0 +1,12 @@
+2022-09-21 14:44:10 ERROR HelloWorldLog4j:17 - Desculpe mas nao foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWorldLog4j.dividir(HelloWorldLog4j.java:22)
+	at HelloWorldLog4j.main(HelloWorldLog4j.java:15)
+2022-09-21 14:45:00 ERROR HelloWorldLog4j:17 - Desculpe mas nao foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWorldLog4j.dividir(HelloWorldLog4j.java:22)
+	at HelloWorldLog4j.main(HelloWorldLog4j.java:15)
+2022-09-21 14:46:41 ERROR HelloWorldLog4j:17 - Desculpe mas nao foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWorldLog4j.dividir(HelloWorldLog4j.java:22)
+	at HelloWorldLog4j.main(HelloWorldLog4j.java:15)
